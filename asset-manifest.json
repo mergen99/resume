@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ResumeTyuteev/static/css/main.284821eb.css",
+    "main.js": "/ResumeTyuteev/static/js/main.4bbda5bd.js",
+    "static/media/TyuteevM.pdf": "/ResumeTyuteev/static/media/TyuteevM.8bac317f9152790581a7.pdf",
+    "static/media/robin.jpg": "/ResumeTyuteev/static/media/robin.86f9e38f404f7bb6f0f1.jpg",
+    "static/media/margo.svg": "/ResumeTyuteev/static/media/margo.d79f21438f60398a831fb9ee75549887.svg",
+    "static/media/bat.svg": "/ResumeTyuteev/static/media/bat.5aab8be16628b8f65722eccc20df258a.svg",
+    "static/media/trepha.svg": "/ResumeTyuteev/static/media/trepha.a861fab2767557aa6a6f6cea662e7d94.svg",
+    "static/media/piki.svg": "/ResumeTyuteev/static/media/piki.aae0e0a9328bef315a24471c38444944.svg",
+    "static/media/cherva.svg": "/ResumeTyuteev/static/media/cherva.8a95303c6e14cdf110ab8a987e7b53f4.svg",
+    "static/media/bubi.svg": "/ResumeTyuteev/static/media/bubi.960b96daad093b152dc9610df851cf21.svg",
+    "static/media/batman.svg": "/ResumeTyuteev/static/media/batman.2b46c37819a9d6a842a5b9f612592a07.svg",
+    "static/media/X.svg": "/ResumeTyuteev/static/media/X.c28c91715162c70e2a659bef4f130ba7.svg",
+    "index.html": "/ResumeTyuteev/index.html",
+    "main.284821eb.css.map": "/ResumeTyuteev/static/css/main.284821eb.css.map",
+    "main.4bbda5bd.js.map": "/ResumeTyuteev/static/js/main.4bbda5bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.284821eb.css",
+    "static/js/main.4bbda5bd.js"
+  ]
+}
