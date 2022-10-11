@@ -1,0 +1,198 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@500&family=Rubik&family=Rubik+Moonrocks&display=swap");
+
+.main {
+  font-family: "Rubik Moonrocks";
+  min-height: 21.25rem;
+  &____welcome {
+    font-size: 4.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 15rem;
+  }
+  &____myself {
+    font-size: 1.7rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+.myself {
+  font-family: "Rubik Moonrocks";
+  display: flex;
+  margin-top: 10rem;
+  min-height: 15.5rem;
+  font-size: 1rem;
+  align-items: center;
+  justify-content: center;
+  &____logo {
+    width: 5.7rem;
+    margin-top: 1rem;
+  }
+  h2 {
+    margin: 0%;
+  }
+
+  &____links {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 7rem;
+    button {
+      margin-left: 1rem;
+      font-family: "Rubik Moonrocks";
+      height: 4rem;
+      width: 5.5rem;
+    }
+  }
+}
+.simpletext {
+  font-family: "Rubik Moonrocks";
+  margin-top: 15rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.mysites {
+  font-family: "Rubik Moonrocks";
+  margin-top: 10rem;
+  font-size: 1.6rem;
+  margin-left: 7rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+}
+@media (max-width: 1245px) {
+  .main____welcome {
+    font-size: 60px;
+  }
+  .main____myself {
+    font-size: 25px;
+  }
+  .myself____aboutme {
+    font-size: 14px;
+  }
+}
+@media (max-width: 1027px) {
+  .main____welcome {
+    font-size: 55px;
+  }
+  .main____myself {
+    font-size: 22px;
+  }
+  .myself____aboutme {
+    font-size: 13px;
+  }
+  .myself____logo {
+    width: 4.5rem;
+  }
+  .myself____logo___icon {
+    width: 4rem;
+    height: 4rem;
+  }
+}
+@media (max-width: 810px) {
+  .main____welcome {
+    font-size: 50px;
+  }
+  .main____myself {
+    font-size: 20px;
+  }
+  .myself____aboutme {
+    font-size: 12px;
+  }
+  .myself____logo___icon {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+}
+@media (max-width: 682px) {
+  .main____welcome {
+    font-size: 40px;
+  }
+  .main____myself {
+    font-size: 18px;
+  }
+  .myself____aboutme {
+    font-size: 11px;
+  }
+  .myself____logo___icon {
+    width: 3rem;
+    height: 3rem;
+  }
+}
+@media (max-width: 574px) {
+  .main____welcome {
+    font-size: 35px;
+  }
+  .main____myself {
+    font-size: 16px;
+  }
+  .myself____aboutme {
+    font-size: 10px;
+  }
+}
+@media (max-width: 497px) {
+  .main____welcome {
+    font-size: 30px;
+  }
+  .main____myself {
+    font-size: 14px;
+  }
+  .myself____aboutme {
+    font-size: 9px;
+  }
+}
+@media (max-width: 433px) {
+  .main____welcome {
+    font-size: 25px;
+  }
+  .main____myself {
+    font-size: 12px;
+  }
+  .myself____logo___icon {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+@media (max-width: 372px) {
+  .main____welcome {
+    font-size: 23px;
+  }
+  .main____myself {
+    font-size: 11px;
+  }
+  .myself____aboutme {
+    font-size: 8px;
+  }
+}
+@media (max-width: 337px) {
+  .main____welcome {
+    font-size: 20px;
+  }
+  .main____myself {
+    font-size: 9px;
+  }
+}
+@media (max-width: 276px) {
+  .main____welcome {
+    font-size: 18px;
+  }
+  .main____myself {
+    font-size: 7.5px;
+  }
+}
+@media (max-width: 227px) {
+  .main____welcome {
+    font-size: 15px;
+  }
+  .main____myself {
+    font-size: 6.5px;
+  }
+}
